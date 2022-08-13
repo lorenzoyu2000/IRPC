@@ -2,10 +2,7 @@ package org.idea.irpc.framework.core.common;
 
 import io.netty.channel.ChannelFuture;
 
-/**
- * @Author linhao
- * @Date created in 9:57 下午 2021/12/12
- */
+
 public class ChannelFutureWrapper {
 
     private ChannelFuture channelFuture;

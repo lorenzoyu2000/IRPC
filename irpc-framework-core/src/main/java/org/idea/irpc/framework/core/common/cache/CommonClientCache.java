@@ -19,9 +19,6 @@ import java.util.concurrent.atomic.AtomicLong;
 
 /**
  * 公用缓存 存储请求队列等公共信息
- *
- * @Author linhao
- * @Date created in 8:44 下午 2021/12/1
  */
 public class CommonClientCache {
 

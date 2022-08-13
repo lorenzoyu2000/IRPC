@@ -13,10 +13,7 @@ import org.openjdk.jmh.runner.RunnerException;
 import org.openjdk.jmh.runner.options.Options;
 import org.openjdk.jmh.runner.options.OptionsBuilder;
 
-/**
- * @Author linhao
- * @Date created in 5:16 下午 2021/12/18
- */
+
 public class ProxyCompareTest {
 
     private static Client client;

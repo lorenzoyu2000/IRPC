@@ -10,10 +10,7 @@ import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * @Author linhao
- * @Date created in 5:33 下午 2021/12/4
- */
+
 public class ProxyGenerator {
 
     private static final AtomicInteger counter = new AtomicInteger(1);

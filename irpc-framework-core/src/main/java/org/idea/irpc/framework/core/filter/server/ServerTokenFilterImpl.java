@@ -12,9 +12,6 @@ import static org.idea.irpc.framework.core.common.cache.CommonServerCache.PROVID
 
 /**
  * 简单版本的token校验
- *
- * @Author linhao
- * @Date created in 9:04 上午 2022/2/1
  */
 @SPI("before")
 public class ServerTokenFilterImpl implements IServerFilter {

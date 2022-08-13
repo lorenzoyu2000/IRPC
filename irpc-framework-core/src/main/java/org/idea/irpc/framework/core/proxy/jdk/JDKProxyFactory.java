@@ -6,10 +6,7 @@ import org.idea.irpc.framework.core.proxy.ProxyFactory;
 
 import java.lang.reflect.Proxy;
 
-/**
- * @Author linhao
- * @Date created in 8:56 上午 2021/11/30
- */
+
 public class JDKProxyFactory implements ProxyFactory {
 
     public JDKProxyFactory() {

@@ -8,10 +8,7 @@ import java.time.LocalDateTime;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * @Author linhao
- * @Date created in 4:09 下午 2022/3/1
- */
+
 public class FixedWindowCounterLimit extends CounterLimit {
 
     private static Logger logger = LoggerFactory.getLogger(FixedWindowCounterLimit.class);

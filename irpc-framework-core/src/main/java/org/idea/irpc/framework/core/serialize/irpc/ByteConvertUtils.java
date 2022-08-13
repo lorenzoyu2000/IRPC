@@ -10,10 +10,7 @@ import java.math.BigInteger;
 import java.nio.charset.Charset;
 import java.util.List;
 
-/**
- * @Author linhao
- * @Date created in 11:10 上午 2021/2/8
- */
+
 public class ByteConvertUtils {
 
     public static byte[] intToByte(int n) {

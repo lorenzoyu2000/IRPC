@@ -1,9 +1,6 @@
 package org.idea.irpc.framework.core.router;
 
-/**
- * @Author linhao
- * @Date created in 8:24 下午 2022/1/5
- */
+
 public enum SelectorEnum {
 
     RANDOM_SELECTOR(0,"random");

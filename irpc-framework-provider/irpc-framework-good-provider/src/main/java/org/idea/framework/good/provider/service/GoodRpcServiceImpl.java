@@ -6,10 +6,7 @@ import org.idea.irpc.framework.spring.starter.common.IRpcService;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * @Author linhao
- * @Date created in 10:59 上午 2022/3/19
- */
+
 @IRpcService
 public class GoodRpcServiceImpl implements GoodRpcService {
 

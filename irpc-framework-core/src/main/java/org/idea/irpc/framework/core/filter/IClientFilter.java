@@ -7,9 +7,6 @@ import java.util.List;
 
 /**
  * 客户端过滤器
- *
- * @Author linhao
- * @Date created in 7:56 下午 2022/1/29
  */
 public interface IClientFilter extends IFilter {
 

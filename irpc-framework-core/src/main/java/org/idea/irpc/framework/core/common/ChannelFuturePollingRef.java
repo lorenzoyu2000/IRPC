@@ -7,10 +7,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicLong;
 
 
-/**
- * @Author linhao
- * @Date created in 8:46 下午 2022/1/5
- */
+
 public class ChannelFuturePollingRef {
 
 

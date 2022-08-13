@@ -4,10 +4,7 @@ import org.idea.irpc.framework.core.serialize.SerializeFactory;
 
 import java.io.*;
 
-/**
- * @Author linhao
- * @Date created in 7:04 下午 2022/1/17
- */
+
 public class JdkSerializeFactory implements SerializeFactory {
 
 

@@ -6,9 +6,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * 限流器
- *
- * @Author linhao
- * @Date created in 8:41 上午 2022/2/28
  */
 public class LimitRequestV1 {
 

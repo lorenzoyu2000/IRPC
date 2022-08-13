@@ -1,9 +1,6 @@
 package org.idea.irpc.framework.core.proxy.javassist.demo;
 
-/**
- * @Author linhao
- * @Date created in 5:42 下午 2021/12/4
- */
+
 public class HelloServiceImpl implements HelloService{
 
     @Override

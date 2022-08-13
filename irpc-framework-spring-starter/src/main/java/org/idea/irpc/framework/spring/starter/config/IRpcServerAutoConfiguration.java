@@ -14,10 +14,7 @@ import org.springframework.context.ApplicationContextAware;
 
 import java.util.Map;
 
-/**
- * @Author linhao
- * @Date created in 7:29 下午 2022/3/7
- */
+
 public class IRpcServerAutoConfiguration implements InitializingBean, ApplicationContextAware {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(IRpcServerAutoConfiguration.class);

@@ -3,10 +3,7 @@ package org.idea.irpc.framework.core.common.event.data;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @Author linhao
- * @Date created in 8:56 下午 2021/12/19
- */
+
 public class URLChangeWrapper {
 
     private String serviceName;

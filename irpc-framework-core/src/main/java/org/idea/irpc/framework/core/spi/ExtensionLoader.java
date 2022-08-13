@@ -9,10 +9,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @Author linhao
- * @Date created in 10:08 下午 2022/2/2
- */
+
 public class ExtensionLoader {
 
     public static String EXTENSION_LOADER_DIR_PREFIX = "META-INF/irpc/";

@@ -4,10 +4,7 @@ import java.io.IOException;
 
 import static org.idea.irpc.framework.core.common.constants.RpcConstants.*;
 
-/**
- * @Author linhao
- * @Date created in 10:46 上午 2021/12/12
- */
+
 public class PropertiesBootstrap {
 
     private volatile boolean configIsReady;

@@ -11,9 +11,6 @@ import static org.idea.irpc.framework.core.common.cache.CommonClientCache.*;
 
 /**
  * 随机筛选
- *
- * @Author linhao
- * @Date created in 8:26 下午 2022/1/5
  */
 public class RandomRouterImpl implements IRouter {
 

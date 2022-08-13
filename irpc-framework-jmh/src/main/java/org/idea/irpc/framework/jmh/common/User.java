@@ -2,10 +2,7 @@ package org.idea.irpc.framework.jmh.common;
 
 import java.io.Serializable;
 
-/**
- * @Author linhao
- * @Date created in 2:38 下午 2022/1/20
- */
+
 public class User implements Serializable {
 
     private static final long serialVersionUID = 5342726393385586669L;

@@ -9,10 +9,7 @@ import java.util.List;
 
 import static org.idea.irpc.framework.core.common.cache.CommonClientCache.*;
 
-/**
- * @Author linhao
- * @Date created in 8:47 下午 2022/1/16
- */
+
 public class ProviderNodeDataChangeListener implements IRpcListener<IRpcNodeChangeEvent> {
 
     @Override

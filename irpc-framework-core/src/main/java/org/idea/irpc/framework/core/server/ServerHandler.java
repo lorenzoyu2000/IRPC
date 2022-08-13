@@ -17,9 +17,6 @@ import static org.idea.irpc.framework.core.common.cache.CommonServerCache.*;
 
 /**
  * 非共享模式，不存在线程安全问题
- *
- * @Author linhao
- * @Date created in 9:02 下午 2021/11/28
  */
 @ChannelHandler.Sharable
 public class ServerHandler extends ChannelInboundHandlerAdapter {

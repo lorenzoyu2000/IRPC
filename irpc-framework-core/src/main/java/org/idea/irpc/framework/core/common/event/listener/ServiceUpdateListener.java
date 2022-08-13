@@ -16,10 +16,7 @@ import java.util.*;
 
 import static org.idea.irpc.framework.core.common.cache.CommonClientCache.*;
 
-/**
- * @Author linhao
- * @Date created in 10:35 下午 2021/12/18
- */
+
 public class ServiceUpdateListener implements IRpcListener<IRpcUpdateEvent> {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(ServiceUpdateListener.class);

@@ -10,9 +10,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * 滑动窗口限流
- *
- * @Author linhao
- * @Date created in 4:27 下午 2022/3/1
  */
 public class SlidingWindowCounterLimit extends CounterLimit {
 

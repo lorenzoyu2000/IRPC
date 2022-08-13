@@ -8,10 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/**
- * @Author linhao
- * @Date created in 7:26 下午 2022/1/20
- */
+
 public class IRpcSerializeFactory implements SerializeFactory {
 
     class ByteHolder {

@@ -20,10 +20,7 @@ import org.springframework.context.ApplicationListener;
 import java.io.IOException;
 import java.lang.reflect.Field;
 
-/**
- * @Author linhao
- * @Date created in 5:53 下午 2022/3/8
- */
+
 public class IRpcClientAutoConfiguration implements BeanPostProcessor, ApplicationListener<ApplicationReadyEvent> {
 
     private static RpcReference rpcReference = null;

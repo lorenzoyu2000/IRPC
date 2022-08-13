@@ -20,10 +20,7 @@ import static org.idea.irpc.framework.core.common.cache.CommonClientCache.CLIENT
 import static org.idea.irpc.framework.core.common.cache.CommonServerCache.IS_STARTED;
 import static org.idea.irpc.framework.core.common.cache.CommonServerCache.SERVER_CONFIG;
 
-/**
- * @Author linhao
- * @Date created in 4:44 下午 2021/12/11
- */
+
 public class ZookeeperRegister extends AbstractRegister implements RegistryService {
 
     private AbstractZookeeperClient zkClient;

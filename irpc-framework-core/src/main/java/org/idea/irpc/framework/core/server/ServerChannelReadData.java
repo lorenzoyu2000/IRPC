@@ -3,10 +3,7 @@ package org.idea.irpc.framework.core.server;
 import io.netty.channel.ChannelHandlerContext;
 import org.idea.irpc.framework.core.common.RpcProtocol;
 
-/**
- * @Author linhao
- * @Date created in 11:11 上午 2022/2/13
- */
+
 public class ServerChannelReadData {
 
     private RpcProtocol rpcProtocol;

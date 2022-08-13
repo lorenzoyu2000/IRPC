@@ -9,10 +9,7 @@ import java.util.Map;
 import static org.idea.irpc.framework.core.common.cache.CommonClientCache.SUBSCRIBE_SERVICE_LIST;
 import static org.idea.irpc.framework.core.common.cache.CommonServerCache.PROVIDER_URL_SET;
 
-/**
- * @Author linhao
- * @Date created in 3:57 下午 2021/12/11
- */
+
 public abstract class AbstractRegister implements RegistryService {
 
 

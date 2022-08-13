@@ -9,9 +9,6 @@ import static org.idea.irpc.framework.core.common.cache.CommonClientCache.*;
 
 /**
  * 轮训策略
- *
- * @Author linhao
- * @Date created in 8:30 下午 2022/1/5
  */
 public class RotateRouterImpl implements IRouter{
 

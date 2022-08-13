@@ -43,10 +43,7 @@ import static org.idea.irpc.framework.core.common.cache.CommonClientCache.*;
 import static org.idea.irpc.framework.core.common.constants.RpcConstants.DEFAULT_DECODE_CHAR;
 import static org.idea.irpc.framework.core.spi.ExtensionLoader.EXTENSION_LOADER_CLASS_CACHE;
 
-/**
- * @Author linhao
- * @Date created in 8:22 上午 2021/11/29
- */
+
 public class Client {
 
     private Logger logger = LoggerFactory.getLogger(Client.class);

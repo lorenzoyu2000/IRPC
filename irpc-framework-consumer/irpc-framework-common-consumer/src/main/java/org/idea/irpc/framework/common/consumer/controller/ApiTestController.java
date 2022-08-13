@@ -12,10 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @Author linhao
- * @Date created in 10:13 上午 2022/3/19
- */
+
 @RestController
 @RequestMapping(value = "/api-test")
 public class ApiTestController {

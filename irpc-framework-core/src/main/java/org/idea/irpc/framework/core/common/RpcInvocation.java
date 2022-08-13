@@ -5,10 +5,7 @@ import java.util.Arrays;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @Author linhao
- * @Date created in 4:24 下午 2021/12/5
- */
+
 public class RpcInvocation implements Serializable {
 
     private static final long serialVersionUID = -3611379458492006176L;

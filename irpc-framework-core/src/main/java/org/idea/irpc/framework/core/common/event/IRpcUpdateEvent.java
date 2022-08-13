@@ -1,9 +1,6 @@
 package org.idea.irpc.framework.core.common.event;
 
-/**
- * @Author linhao
- * @Date created in 10:33 下午 2021/12/18
- */
+
 public class IRpcUpdateEvent implements IRpcEvent {
 
     private Object data;

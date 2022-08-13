@@ -6,10 +6,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @Author linhao
- * @Date created in 3:48 下午 2021/12/11
- */
+
 public class URL {
 
     /**

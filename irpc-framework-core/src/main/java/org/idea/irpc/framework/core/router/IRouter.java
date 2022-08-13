@@ -3,10 +3,7 @@ package org.idea.irpc.framework.core.router;
 import org.idea.irpc.framework.core.common.ChannelFutureWrapper;
 import org.idea.irpc.framework.core.registy.URL;
 
-/**
- * @Author linhao
- * @Date created in 8:08 下午 2022/1/5
- */
+
 public interface IRouter {
 
 

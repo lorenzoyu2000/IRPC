@@ -3,10 +3,7 @@ package org.idea.irpc.framework.core.serialize.fastjson;
 import com.alibaba.fastjson.JSON;
 import org.idea.irpc.framework.core.serialize.SerializeFactory;
 
-/**
- * @Author linhao
- * @Date created in 9:51 下午 2022/1/17
- */
+
 public class FastJsonSerializeFactory implements SerializeFactory {
 
     @Override

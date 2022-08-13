@@ -1,9 +1,6 @@
 package org.idea.irpc.framework.core.common.config;
 
-/**
- * @Author linhao
- * @Date created in 10:41 上午 2021/12/11
- */
+
 public class ClientConfig {
 
     private String applicationName;

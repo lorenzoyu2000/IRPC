@@ -7,10 +7,7 @@ import org.idea.irpc.framework.core.serialize.jdk.JdkSerializeFactory;
 import org.idea.irpc.framework.core.serialize.kryo.KryoSerializeFactory;
 import org.idea.irpc.framework.jmh.common.User;
 
-/**
- * @Author linhao
- * @Date created in 5:53 下午 2022/1/20
- */
+
 public class SerializeByteSizeCompareTest {
 
     private static User buildUserDefault() {

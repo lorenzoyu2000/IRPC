@@ -3,10 +3,7 @@ package org.idea.irpc.framework.core.spi.jdk;
 import java.util.Iterator;
 import java.util.ServiceLoader;
 
-/**
- * @Author linhao
- * @Date created in 2:50 下午 2022/2/4
- */
+
 public class TestSpiDemo {
 
     public static void doTest(ISpiTest iSpiTest){

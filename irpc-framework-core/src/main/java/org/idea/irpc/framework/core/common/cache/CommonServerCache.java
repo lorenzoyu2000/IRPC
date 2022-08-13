@@ -15,10 +15,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.*;
 
-/**
- * @Author linhao
- * @Date created in 8:45 下午 2021/12/1
- */
+
 public class CommonServerCache {
 
     public static final Map<String,Object> PROVIDER_CLASS_MAP = new ConcurrentHashMap<>();

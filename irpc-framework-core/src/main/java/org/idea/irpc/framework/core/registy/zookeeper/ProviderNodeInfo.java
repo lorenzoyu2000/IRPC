@@ -1,9 +1,6 @@
 package org.idea.irpc.framework.core.registy.zookeeper;
 
-/**
- * @Author linhao
- * @Date created in 11:43 下午 2021/12/13
- */
+
 public class ProviderNodeInfo {
 
     private String applicationName;

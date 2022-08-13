@@ -11,10 +11,7 @@ import java.util.Collections;
 import java.util.Enumeration;
 import java.util.List;
 
-/**
- * @Author linhao
- * @Date created in 5:35 下午 2021/12/4
- */
+
 public class CommonUtils {
 
     /**

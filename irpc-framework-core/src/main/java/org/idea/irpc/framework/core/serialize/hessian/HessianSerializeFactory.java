@@ -7,10 +7,7 @@ import org.idea.irpc.framework.core.serialize.SerializeFactory;
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 
-/**
- * @Author linhao
- * @Date created in 6:59 下午 2022/1/17
- */
+
 public class HessianSerializeFactory implements SerializeFactory {
 
     @Override

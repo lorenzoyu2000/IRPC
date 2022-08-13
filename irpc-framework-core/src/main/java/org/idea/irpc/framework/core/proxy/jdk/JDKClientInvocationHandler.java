@@ -14,9 +14,6 @@ import static org.idea.irpc.framework.core.common.constants.RpcConstants.DEFAULT
 
 /**
  * 各种代理工厂统一使用这个InvocationHandler
- *
- * @Author linhao
- * @Date created in 6:59 下午 2021/12/5
  */
 public class JDKClientInvocationHandler implements InvocationHandler {
 

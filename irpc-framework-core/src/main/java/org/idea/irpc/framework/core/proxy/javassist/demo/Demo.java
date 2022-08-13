@@ -3,10 +3,7 @@ package org.idea.irpc.framework.core.proxy.javassist.demo;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author linhao
- * @Date created in 9:28 上午 2021/12/5
- */
+
 public class Demo {
 
     public void doTest(){

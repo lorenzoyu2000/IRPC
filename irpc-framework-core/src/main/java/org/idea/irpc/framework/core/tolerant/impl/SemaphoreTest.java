@@ -4,10 +4,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Semaphore;
 
-/**
- * @Author linhao
- * @Date created in 6:33 下午 2022/3/2
- */
+
 public class SemaphoreTest {
 
     private static final int Thread_Count = 30;

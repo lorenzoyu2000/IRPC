@@ -2,10 +2,7 @@ package org.idea.irpc.framework.core.common;
 
 import java.util.concurrent.Semaphore;
 
-/**
- * @Author linhao
- * @Date created in 12:14 下午 2022/3/6
- */
+
 public class ServerServiceSemaphoreWrapper {
 
     private Semaphore semaphore;

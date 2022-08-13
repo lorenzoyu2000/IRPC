@@ -5,10 +5,7 @@ import java.util.Arrays;
 
 import static org.idea.irpc.framework.core.common.constants.RpcConstants.MAGIC_NUMBER;
 
-/**
- * @Author linhao
- * @Date created in 9:48 上午 2021/12/4
- */
+
 public class RpcProtocol implements Serializable {
 
     private static final long serialVersionUID = 5359096060555795690L;

@@ -13,10 +13,7 @@ import org.slf4j.LoggerFactory;
 import static org.idea.irpc.framework.core.common.cache.CommonClientCache.CLIENT_SERIALIZE_FACTORY;
 import static org.idea.irpc.framework.core.common.cache.CommonClientCache.RESP_MAP;
 
-/**
- * @Author linhao
- * @Date created in 8:21 下午 2021/11/24
- */
+
 public class ClientHandler extends ChannelInboundHandlerAdapter {
 
     private static Logger logger = LoggerFactory.getLogger(ClientHandler.class);

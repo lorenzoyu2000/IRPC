@@ -13,10 +13,7 @@ import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-/**
- * @Author linhao
- * @Date created in 11:50 下午 2021/12/13
- */
+
 public class IRpcListenerLoader {
 
     private static List<IRpcListener> iRpcListenerList = new ArrayList<>();

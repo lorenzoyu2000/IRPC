@@ -8,9 +8,6 @@ import static org.idea.irpc.framework.core.common.cache.CommonServerCache.REGIST
 
 /**
  * 服务注销 监听器
- *
- * @Author linhao
- * @Date created in 3:18 下午 2022/1/8
  */
 public class ServiceDestroyListener implements IRpcListener<IRpcDestroyEvent> {
 

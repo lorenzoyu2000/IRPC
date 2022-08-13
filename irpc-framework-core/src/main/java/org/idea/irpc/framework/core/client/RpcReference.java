@@ -4,10 +4,7 @@ import org.idea.irpc.framework.core.proxy.ProxyFactory;
 
 import static org.idea.irpc.framework.core.common.cache.CommonClientCache.CLIENT_CONFIG;
 
-/**
- * @Author linhao
- * @Date created in 10:49 上午 2021/12/11
- */
+
 public class RpcReference {
 
     public ProxyFactory proxyFactory;

@@ -6,10 +6,7 @@ import org.idea.irpc.framework.core.filter.IServerFilter;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author linhao
- * @Date created in 8:40 下午 2022/1/29
- */
+
 public class ServerBeforeFilterChain {
 
     private static List<IServerFilter> iServerFilters = new ArrayList<>();

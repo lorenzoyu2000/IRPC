@@ -1,9 +1,6 @@
 package org.idea.irpc.framework.core.client;
 
-/**
- * @Author linhao
- * @Date created in 9:11 上午 2022/2/13
- */
+
 public class RpcReferenceFuture<T> {
 
     private RpcReferenceWrapper rpcReferenceWrapper;

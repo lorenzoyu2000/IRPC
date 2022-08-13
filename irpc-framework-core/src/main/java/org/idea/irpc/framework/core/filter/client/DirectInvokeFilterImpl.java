@@ -12,9 +12,6 @@ import static org.idea.irpc.framework.core.common.cache.CommonClientCache.RESP_M
 
 /**
  * 直连过滤器
- *
- * @Author linhao
- * @Date created in 9:04 上午 2022/2/1
  */
 public class DirectInvokeFilterImpl implements IClientFilter {
 

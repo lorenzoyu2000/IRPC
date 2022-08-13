@@ -15,12 +15,7 @@ import java.util.*;
 
 import static org.idea.irpc.framework.core.common.cache.CommonClientCache.*;
 
-/**
- * 职责： 当注册中心的节点新增或者移除或者权重变化的时候，这个类主要负责对内存中的url做变更
- *
- * @Author linhao
- * @Date created in 11:18 上午 2021/12/16
- */
+
 public class ConnectionHandler {
 
     /**

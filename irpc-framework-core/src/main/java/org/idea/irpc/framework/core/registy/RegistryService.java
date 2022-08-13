@@ -1,9 +1,6 @@
 package org.idea.irpc.framework.core.registy;
 
-/**
- * @Author linhao
- * @Date created in 11:26 上午 2021/12/11
- */
+
 public interface RegistryService {
 
 

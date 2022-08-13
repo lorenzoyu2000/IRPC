@@ -8,10 +8,7 @@ import org.idea.irpc.framework.spring.starter.common.IRpcService;
 
 import java.util.*;
 
-/**
- * @Author linhao
- * @Date created in 10:07 上午 2022/3/19
- */
+
 @IRpcService
 public class UserRpcServiceImpl implements UserRpcService {
 

@@ -8,9 +8,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * 服务端日志过滤器
- *
- * @Author linhao
- * @Date created in 8:01 下午 2022/1/29
  */
 @SPI("before")
 public class ServerLogFilterImpl implements IServerFilter {

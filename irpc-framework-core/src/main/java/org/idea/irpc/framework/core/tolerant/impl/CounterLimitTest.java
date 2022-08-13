@@ -3,10 +3,7 @@ package org.idea.irpc.framework.core.tolerant.impl;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @Author linhao
- * @Date created in 4:16 下午 2022/3/1
- */
+
 public class CounterLimitTest {
 
     private static FixedWindowCounterLimit fIxedWindowCounterLimit = new FixedWindowCounterLimit(10,60, TimeUnit.SECONDS);

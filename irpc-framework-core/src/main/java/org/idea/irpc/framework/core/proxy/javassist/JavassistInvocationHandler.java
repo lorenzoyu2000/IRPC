@@ -12,10 +12,7 @@ import java.util.concurrent.TimeoutException;
 import static org.idea.irpc.framework.core.common.cache.CommonClientCache.*;
 import static org.idea.irpc.framework.core.common.constants.RpcConstants.DEFAULT_TIMEOUT;
 
-/**
- * @Author linhao
- * @Date created in 7:15 下午 2021/12/5
- */
+
 public class JavassistInvocationHandler implements InvocationHandler {
 
 

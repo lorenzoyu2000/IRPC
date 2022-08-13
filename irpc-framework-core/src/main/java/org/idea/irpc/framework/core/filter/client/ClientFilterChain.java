@@ -7,10 +7,7 @@ import org.idea.irpc.framework.core.filter.IClientFilter;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author linhao
- * @Date created in 8:18 下午 2022/1/29
- */
+
 public class ClientFilterChain {
 
     private static List<IClientFilter> iClientFilterList = new ArrayList<>();

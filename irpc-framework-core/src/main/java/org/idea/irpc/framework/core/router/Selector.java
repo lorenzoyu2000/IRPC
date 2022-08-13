@@ -2,10 +2,7 @@ package org.idea.irpc.framework.core.router;
 
 import org.idea.irpc.framework.core.common.ChannelFutureWrapper;
 
-/**
- * @Author linhao
- * @Date created in 8:13 下午 2022/1/5
- */
+
 public class Selector {
 
     /**

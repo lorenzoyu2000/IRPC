@@ -8,9 +8,6 @@ import static org.idea.irpc.framework.core.common.constants.RpcConstants.DEFAULT
 
 /**
  * RPC编码器
- *
- * @Author linhao
- * @Date created in 9:50 上午 2021/12/4
  */
 public class RpcEncoder extends MessageToByteEncoder<RpcProtocol> {
 

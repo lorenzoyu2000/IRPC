@@ -2,9 +2,6 @@ package org.idea.irpc.framework.core.server;
 
 /**
  * 服务包装类
- *
- * @Author linhao
- * @Date created in 11:17 上午 2022/1/29
  */
 public class ServiceWrapper {
 

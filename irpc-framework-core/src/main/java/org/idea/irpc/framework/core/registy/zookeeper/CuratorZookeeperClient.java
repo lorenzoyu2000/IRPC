@@ -15,10 +15,7 @@ import java.util.List;
 
 import static org.apache.zookeeper.Watcher.Event.EventType.NodeDeleted;
 
-/**
- * @Author linhao
- * @Date created in 4:06 下午 2021/12/11
- */
+
 public class CuratorZookeeperClient extends AbstractZookeeperClient {
 
     private CuratorFramework client;

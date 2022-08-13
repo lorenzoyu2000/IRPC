@@ -5,10 +5,7 @@ import org.idea.irpc.framework.interfaces.DataService;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
-/**
- * @Author linhao
- * @Date created in 8:44 上午 2021/12/9
- */
+
 public class DemoInvocation implements InvocationHandler {
 
 

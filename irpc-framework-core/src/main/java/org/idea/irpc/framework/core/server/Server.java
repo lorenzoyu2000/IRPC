@@ -40,10 +40,7 @@ import static org.idea.irpc.framework.core.common.cache.CommonServerCache.*;
 import static org.idea.irpc.framework.core.common.constants.RpcConstants.*;
 import static org.idea.irpc.framework.core.spi.ExtensionLoader.EXTENSION_LOADER_CLASS_CACHE;
 
-/**
- * @Author linhao
- * @Date created in 8:12 上午 2021/11/29
- */
+
 public class Server {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(Server.class);

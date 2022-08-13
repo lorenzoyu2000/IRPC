@@ -5,10 +5,7 @@ import javassist.*;
 import java.lang.reflect.Method;
 import java.util.List;
 
-/**
- * @Author linhao
- * @Date created in 9:41 上午 2021/12/5
- */
+
 public class JavassistDemo {
 
     public static final String DEMO_CLASS = "org.idea.irpc.framework.core.proxy.javassist.demo.Demo";

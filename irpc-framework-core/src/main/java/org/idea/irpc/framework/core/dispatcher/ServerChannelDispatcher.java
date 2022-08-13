@@ -12,10 +12,7 @@ import java.util.concurrent.*;
 import static org.idea.irpc.framework.core.common.cache.CommonServerCache.*;
 import static org.idea.irpc.framework.core.common.cache.CommonServerCache.SERVER_SERIALIZE_FACTORY;
 
-/**
- * @Author linhao
- * @Date created in 11:08 上午 2022/2/13
- */
+
 public class ServerChannelDispatcher {
 
     private BlockingQueue<ServerChannelReadData> RPC_DATA_QUEUE;

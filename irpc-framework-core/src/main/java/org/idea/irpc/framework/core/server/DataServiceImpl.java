@@ -6,10 +6,7 @@ import org.idea.irpc.framework.interfaces.DataService;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author linhao
- * @Date created in 5:07 下午 2021/12/5
- */
+
 public class DataServiceImpl implements DataService {
 
     @Override

@@ -1,9 +1,6 @@
 package org.idea.irpc.framework.core.serialize;
 
-/**
- * @Author linhao
- * @Date created in 6:20 下午 2022/1/17
- */
+
 public interface SerializeFactory {
 
 
